@@ -1,0 +1,1 @@
+Bin is used for file outputs (.exe/.dll)
